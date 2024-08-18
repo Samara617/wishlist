@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Wishlist</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-18 06:50:21</sys_created_on>
+        <sys_id>d228d55a4d0012107f4497aba5e7c46e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wishlist</sys_name>
+        <sys_package display_value="Wishlist" source="x_snc_wishlist">3eb459924d0012107f4497aba5e7c40a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wishlist">3eb459924d0012107f4497aba5e7c40a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_d228d55a4d0012107f4497aba5e7c46e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-18 06:50:21</sys_updated_on>
+        <title>Wishlist</title>
+    </sys_sg_applet_launcher>
+</record_update>
